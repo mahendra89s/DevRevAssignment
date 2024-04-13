@@ -95,7 +95,7 @@ dependencies {
     implementation(libs.pagingRuntime)
     implementation(libs.pagingCompose)
 
-    implementation("com.github.mahendra89s:CustomNetworkSDK:2.0.4")
+    implementation("com.github.mahendra89s:DevRevAssignment:1.0.2")
 
 }
 

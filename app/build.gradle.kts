@@ -95,6 +95,11 @@ dependencies {
     implementation(libs.pagingRuntime)
     implementation(libs.pagingCompose)
 
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-test:1.7.3")
+    implementation("io.mockk:mockk:1.13.10")
+    implementation("app.cash.turbine:turbine:0.12.0")
+
+
     implementation("com.github.mahendra89s:DevRevAssignment:1.0.2")
 
 }
